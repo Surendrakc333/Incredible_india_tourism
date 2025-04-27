@@ -1,6 +1,6 @@
 /* Surendra */
 .carousel-item img{
-    width: 100%;
+    width: 90%;
     height: 90vh;
 }
 .tourism{
@@ -9,7 +9,7 @@
     background-color: rgb(220, 238, 232);
 }
 .about{
-    height: 73vh;
+    height: 90vh;
     margin-top: 5%;
 }
 .more-info{
